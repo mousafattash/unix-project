@@ -18,7 +18,7 @@
         Create the repository and upload the database-related scripts.
         Document database setup and functionality for the team.
 
-    Team Member 2: Frontend Development and Client Setup
+    Team Member 2: Frontend Development and Client Setup (mohammad)
         Responsibilities:
         Client Machine Configuration:
 
