@@ -13,7 +13,7 @@
         Develop the PHP scripts to interact with the database:
         Input functionality for adding new words and meanings.
         Query functionality to fetch meanings from the database.
-        Git Integration:
+        Git Integration: 
 
         Create the repository and upload the database-related scripts.
         Document database setup and functionality for the team.
@@ -40,7 +40,7 @@
         Push frontend-related files to the repository.
         Collaborate with the backend developer to resolve any integration issues.
     
-    Team Member 3: Automation and Deployment
+    Team Member 3: Automation and Deployment (mousa)
         Responsibilities:
         Jenkins Setup:
 
